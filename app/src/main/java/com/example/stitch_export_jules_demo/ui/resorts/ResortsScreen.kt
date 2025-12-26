@@ -73,12 +73,12 @@ val countries = listOf(
         resorts = listOf(
             SkiResort(
                 name = "ゲルマット",
-                description = "スイスのスキーリゾートで、スイスアルプスの心脳部に位置しています。",
+                description = "スイスのスキーリゾートで、スイスアルプスの中心部に位置しています。",
                 imageUrl = "https://lh3.googleusercontent.com/aida-public/AB6AXuCm32VG-q2ZyQgmJpXDvvtal8x21BjD2mMXCoMOXUjglYW0V9XfsVxPx16DqOW6YP4Q2xOPjdVtX06e1vASfqZ21es4Qlr99Mryk-tgvftShGtqTcHQ8zQd4wRd7NlHS6A1Ha26F7gef9Nq_CMTkO5OXsQVYMwFoj-jK1EBGNu37_YAKRML7IlvmkPfse3pOVjy_XrsFJ0AIdbdDtg3UxHIs_LJK3BTmOc27rsB1S-D794vz6VDzzXRnVdmJjqncYnl9431PkRLH149"
             ),
             SkiResort(
                 name = "ゲスターディング",
-                description = "スイスのスキーリゾートで、スイスアルプスの心脳部に位置しています。",
+                description = "スイスのスキーリゾートで、スイスアルプスの中心部に位置しています。",
                 imageUrl = "https://lh3.googleusercontent.com/aida-public/AB6AXuD1Buuyu_HknE4Juhty3SMVg5Jy06jCOy7FmZ5-KjnZljY_uxojO9By3amgnBh2Cde1Eg0WElSqpvE81vbRhGFvw4t6KOFKOMaVRPx0nlzigzQ3HJRPCDTQJYCEg_8LqJkMnY-1VkcqhSWBwaPFQ3giutF8O2J5qyxV0uDAnz8C8HCqAjCLXgdtEyy7g8y8oTgI9WRfK2DChSG73Q2QoBgfqiZivkEa93b3ufWWewdODdOOYhAzYQ_Ouaw1g6gWMbv_rZsgQtHbremI"
             )
         )
