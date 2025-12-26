@@ -1,7 +1,6 @@
 package com.example.stitch_export_jules_demo.ui.settings
 
 import androidx.annotation.DrawableRes
-import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn

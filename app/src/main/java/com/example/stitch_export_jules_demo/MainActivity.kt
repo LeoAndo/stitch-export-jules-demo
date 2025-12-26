@@ -6,6 +6,7 @@ import androidx.activity.compose.setContent
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
+import androidx.compose.ui.Modifier
 import com.example.stitch_export_jules_demo.ui.navigation.AppNavigation
 import com.example.stitch_export_jules_demo.ui.theme.StitchexportjulesdemoTheme
 

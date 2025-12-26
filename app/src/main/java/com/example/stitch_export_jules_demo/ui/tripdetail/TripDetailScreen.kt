@@ -70,7 +70,7 @@ fun TripDetailScreen() {
                 )
             }
             item {
-                TripSectionTitle("トリップの絳詳")
+                TripSectionTitle("トリップの詳細")
             }
             item {
                 TripDetailSection(
