@@ -43,12 +43,12 @@ val countries = listOf(
         resorts = listOf(
             SkiResort(
                 name = "ドロミテ",
-                description = "イタリアのスキーリゾートで、ドロミテの心脳部に位置しています。",
+                description = "イタリアのスキーリゾートで、ドロミテの中心部に位置しています。",
                 imageUrl = "https://lh3.googleusercontent.com/aida-public/AB6AXuAxjRNWzzP-YF80Pz-fx7PqsqUAcEYWEjezSjBvj2tVMyYQnqJDM28MJBZ0kOYfmNGuxOH0bSItgF4atG4TOZiQcd5bEijCiEBuk5cNYuoYCkkWAlMWxCA64KN3SN5OmLCQ4Rv824n1giulkSuohDe9u-GTJvIWa4zZksvv0m-f0KMo8hHJUW-xiHCfAhTy7qo4CMTpGqrHN6_WQNkR_rO0ucCAM6BNGXLEEs1_-4xPzVz3IMXOEtzXAfajlCeGM47bgYZoS-Ic5pC6"
             ),
             SkiResort(
                 name = "コルティナダンペッツォ",
-                description = "イタリアのスキーリゾートで、ドロミテの心脳部に位置しています。",
+                description = "イタリアのスキーリゾートで、ドロミテの中心部に位置しています。",
                 imageUrl = "https://lh3.googleusercontent.com/aida-public/AB6AXuBzQJe2GxpL0I4XIx2K9jEtkq1ONm8LpV-OSbolQabf8rFnrfkKU5vPV5rIjd-WkMLdkluZ6TD9FI8_shAL00IgsWvii5Sf4hkgj6BF-NrCF5z7J4Ct6S4FkO8MfG4irA9vk4sjTjHetJe4RyC1vTZOX1TIU8ScVjlQbX3ju7Wiv_g0lQLwAjmGFeJgP-wXS2puoUT5adr0F5MgR2Zrjwlv5Ooz3_bTWyX-CoOmsaJ0yGTZEKK0KBPlu9EQuioQkjo5hIEFRgO9Sif5"
             )
         )
@@ -63,7 +63,7 @@ val countries = listOf(
             ),
             SkiResort(
                 name = "アルベルビル",
-                description = "フランスのスキーリゾートで、アルプスの心脳部に位置しています。",
+                description = "フランスのスキーリゾートで、アルプスの中心部に位置しています。",
                 imageUrl = "https://lh3.googleusercontent.com/aida-public/AB6AXuBoH-Nf8h6XqhPjWbPi5U34sjneMkvyTMaOqGN1orqJbsgtpVR7D9y_6FLaiUg24GvQrMX5SK2BpCdEyojxOmUEI9RsIQDpIVrfQ3S88iNlw-024oX_iX6SA43rzhZsxh2IIUlx1C2OwhHbVQW71nsSR3WznwLqZPkgTj6adaJfn0K64NFb7v5UxRZ1XiGUX4KNaL59GBHzVqKDteeVYS9T0bM5rh2TuVOr3C-_3ygh7Ly8jQYUr-mVgshcEO4URYkoda2SCTKKAwL9"
             )
         )
