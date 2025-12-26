@@ -1,6 +1,5 @@
 package com.example.stitch_export_jules_demo.ui.resorts
 
-import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
